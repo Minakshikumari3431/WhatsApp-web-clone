@@ -1,0 +1,1 @@
+A responsive front-end clone of WhatsApp Web built using **HTML** and **CSS**. This project replicates the user interface (UI) of WhatsApp Web for learning and practice purposes — including sidebar, chat list, and chat window layout.
